@@ -8,5 +8,5 @@ logger = lil_logger.get("my lil logger", lil_logger.DEBUG)
 logger.info('Prints with color.')
 ```
 
-!["./screenshot.png"]("./screenshot.png")
+!["./screenshot.png"](./screenshot.png)
 

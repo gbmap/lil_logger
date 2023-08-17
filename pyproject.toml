@@ -1,0 +1,13 @@
+[project]
+name = "lil_logger"
+version = "2023.0.1"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+dependencies = [
+	"colorama"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
